@@ -57,3 +57,4 @@ def score_game(game_core)->int:
 #RUN
 if __name__ == "__main__":
     score_game(game_core)
+    #1
